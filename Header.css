@@ -1,0 +1,83 @@
+.headerBackground {
+  background-color: black;
+  height: 800px;
+}
+
+
+.allWrapper {
+  display: flex;
+}
+
+.image {
+  border-radius: 50%;
+  margin-left: 80px;
+  margin-top: 45px;
+}
+
+.textButtonWrapper {
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  color: rgb(255, 215, 86);
+  margin-left: 100px;
+  font-size: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-left: 300px;
+  width: 120px;
+  height: 50px;
+  background-color:rgb(255, 215, 86);
+  color: black;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcome {
+  color: rgb(255, 215, 86);
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.information {
+  color: rgb(255, 215, 86);
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.address {
+  color: rgb(255, 215, 86);
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.hours {
+  color: rgb(255, 215, 86);
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
