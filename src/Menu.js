@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Menu1 from './photos/menu1.png';
 import Menu2 from './photos/menu2.jpg';
-import "./Menu.css"
+import "./App.css"
 
 export default class Menu extends Component {
   render() {
