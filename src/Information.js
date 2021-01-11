@@ -7,7 +7,7 @@ const Information = () => {
       <div className="welcome">
         Welcome! Thank you for visiting and your continuous patronage. 
       </div>
-      <div>
+      <div >
         Place an order today by calling&nbsp;<a href="tel:6506168288" style={{color: 'red', textDecoration: 'none'}}>(650) 616-8288</a>.
       </div>
     </div>
