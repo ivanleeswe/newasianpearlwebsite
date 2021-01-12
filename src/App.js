@@ -2,6 +2,7 @@ import TopBlock from './TopBlock';
 import QuoteBlock from './QuoteBlock';
 import PopularBlock from './PopularBlock';
 import PopularItemsData from './popularItemsData';
+import PhotoStrip from './PhotoStrip';
 import React, {useState} from 'react';
 import Menu from './Menu';
 import Information from './Information';
@@ -15,6 +16,7 @@ const App = () => {
   return (
     <div className="mainWrapper">
       <TopBlock />
+      <PhotoStrip />
       <Information />
       {/* <PopularBlock popularItems={data}/>
       <QuoteBlock /> */}

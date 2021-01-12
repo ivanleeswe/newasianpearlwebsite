@@ -1,7 +1,6 @@
 import React, { Component, useRef } from 'react'
 import mainPic from './photos/main.jpeg';
 import './App.css';
-import Menu from './Menu';
 import {Link} from 'react-scroll';
 
 const TopBlock = () => {
