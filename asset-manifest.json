@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a186032f.chunk.css",
-    "main.js": "/static/js/main.15813d81.chunk.js",
-    "main.js.map": "/static/js/main.15813d81.chunk.js.map",
+    "main.css": "/static/css/main.ab7933ed.chunk.css",
+    "main.js": "/static/js/main.0599811e.chunk.js",
+    "main.js.map": "/static/js/main.0599811e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f66291f5.js",
     "runtime-main.js.map": "/static/js/runtime-main.f66291f5.js.map",
-    "static/js/2.cf20b98d.chunk.js": "/static/js/2.cf20b98d.chunk.js",
-    "static/js/2.cf20b98d.chunk.js.map": "/static/js/2.cf20b98d.chunk.js.map",
+    "static/js/2.4ab4b8ee.chunk.js": "/static/js/2.4ab4b8ee.chunk.js",
+    "static/js/2.4ab4b8ee.chunk.js.map": "/static/js/2.4ab4b8ee.chunk.js.map",
     "static/js/3.654f23ab.chunk.js": "/static/js/3.654f23ab.chunk.js",
     "static/js/3.654f23ab.chunk.js.map": "/static/js/3.654f23ab.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a186032f.chunk.css.map": "/static/css/main.a186032f.chunk.css.map",
-    "static/js/2.cf20b98d.chunk.js.LICENSE.txt": "/static/js/2.cf20b98d.chunk.js.LICENSE.txt",
+    "static/css/main.ab7933ed.chunk.css.map": "/static/css/main.ab7933ed.chunk.css.map",
+    "static/js/2.4ab4b8ee.chunk.js.LICENSE.txt": "/static/js/2.4ab4b8ee.chunk.js.LICENSE.txt",
     "static/media/BeefBalls.236f5ee5.jpg": "/static/media/BeefBalls.236f5ee5.jpg",
     "static/media/ChaShuBuns.061823fc.jpg": "/static/media/ChaShuBuns.061823fc.jpg",
     "static/media/EggTarts.fa227802.jpg": "/static/media/EggTarts.fa227802.jpg",
     "static/media/EggYolkLavaBuns.7215e533.jpg": "/static/media/EggYolkLavaBuns.7215e533.jpg",
+    "static/media/Restaurant1.628a82ab.jpeg": "/static/media/Restaurant1.628a82ab.jpeg",
+    "static/media/Restaurant2.86b70fc3.jpeg": "/static/media/Restaurant2.86b70fc3.jpeg",
+    "static/media/Restaurant3.1a30de07.jpeg": "/static/media/Restaurant3.1a30de07.jpeg",
+    "static/media/Restaurant4.64cb314b.jpeg": "/static/media/Restaurant4.64cb314b.jpeg",
+    "static/media/Restaurant5.16a8caee.jpeg": "/static/media/Restaurant5.16a8caee.jpeg",
     "static/media/ShrimpDumplings.3661532c.jpg": "/static/media/ShrimpDumplings.3661532c.jpg",
     "static/media/ShuMais.36c4a3be.jpg": "/static/media/ShuMais.36c4a3be.jpg",
     "static/media/main.33f11424.jpeg": "/static/media/main.33f11424.jpeg",
@@ -24,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f66291f5.js",
-    "static/js/2.cf20b98d.chunk.js",
-    "static/css/main.a186032f.chunk.css",
-    "static/js/main.15813d81.chunk.js"
+    "static/js/2.4ab4b8ee.chunk.js",
+    "static/css/main.ab7933ed.chunk.css",
+    "static/js/main.0599811e.chunk.js"
   ]
 }
