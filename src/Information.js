@@ -3,7 +3,7 @@ import './App.css'
 
 const Information = () => {
   return (
-    <div id='textBlock'>
+    <div className="textBlock">
       <div className="welcome">
         Welcome! Thank you for visiting and your continuous patronage. 
       </div>

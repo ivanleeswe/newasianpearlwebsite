@@ -9,7 +9,7 @@ import Retaurant5 from './photos/Restaurant5.jpeg';
 export default class PhotoStrip extends Component {
   render() {
     return (
-      <div className="restaurantPhotos">
+      <div className="restaurantPhotos" id='photoStrip'>
         <img src={Retaurant1} alt='restaurant1' className="restaurantImage"/>
         <img src={Retaurant2} alt='restaurant2' className="restaurantImage"/>
         <img src={Retaurant3} alt='restaurant3' className="restaurantImage"/>
