@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7933ed.chunk.css",
-    "main.js": "/static/js/main.0599811e.chunk.js",
-    "main.js.map": "/static/js/main.0599811e.chunk.js.map",
+    "main.css": "/static/css/main.42963220.chunk.css",
+    "main.js": "/static/js/main.c8cd5a4f.chunk.js",
+    "main.js.map": "/static/js/main.c8cd5a4f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f66291f5.js",
     "runtime-main.js.map": "/static/js/runtime-main.f66291f5.js.map",
     "static/js/2.4ab4b8ee.chunk.js": "/static/js/2.4ab4b8ee.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.654f23ab.chunk.js": "/static/js/3.654f23ab.chunk.js",
     "static/js/3.654f23ab.chunk.js.map": "/static/js/3.654f23ab.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ab7933ed.chunk.css.map": "/static/css/main.ab7933ed.chunk.css.map",
+    "static/css/main.42963220.chunk.css.map": "/static/css/main.42963220.chunk.css.map",
     "static/js/2.4ab4b8ee.chunk.js.LICENSE.txt": "/static/js/2.4ab4b8ee.chunk.js.LICENSE.txt",
     "static/media/BeefBalls.236f5ee5.jpg": "/static/media/BeefBalls.236f5ee5.jpg",
     "static/media/ChaShuBuns.061823fc.jpg": "/static/media/ChaShuBuns.061823fc.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.f66291f5.js",
     "static/js/2.4ab4b8ee.chunk.js",
-    "static/css/main.ab7933ed.chunk.css",
-    "static/js/main.0599811e.chunk.js"
+    "static/css/main.42963220.chunk.css",
+    "static/js/main.c8cd5a4f.chunk.js"
   ]
 }
